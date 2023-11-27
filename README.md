@@ -15,7 +15,7 @@ Google Chrome, resolução da tela 800x600 e Firefox, resolução da tela 1920x1
 7. Testei o aplicativo e escrevi relatórios de bug;
 
 ### Requisitos
-[Baixe aqui](https://github.com/bibiellabraz/meusarquivos/blob/e40ca64cf0759a2bea0dccaad18bb2b0ecc20134/Requisitos_para_Urban.routes.pdf).
+[Baixe aqui](https://github.com/bibiellabraz/meusarquivos/blob/c281f3956f4a81f7a53494b13878b7ab1743b750/2%20Os_Requisitos_para_a_Funcionalidade_Carsharing.pdf).
 
 ### Funcionalidade
 Urban.Routes é um serviço que cria rotas para vários tipos de transporte, sendo que uma de suas funcionalidades adicionadas é o de compartilhamento de carro, reserva e aluguel.
