@@ -28,4 +28,4 @@ Urban.Routes é um serviço que cria rotas para vários tipos de transporte, sen
 
 ### Tecnologias e aplicativos
 1. Jira
-
+2. Figma
